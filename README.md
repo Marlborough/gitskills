@@ -1,2 +1,2 @@
 # gitskills
-New repository created from remote / online
+New repository created from remote
